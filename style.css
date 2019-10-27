@@ -1,0 +1,16 @@
+
+header #data.some article.has{
+
+    color:red;
+    background-color: yellow;
+}
+
+#data.some input#username{
+
+    color: blue;
+}
+
+footer.newData section.some input{
+
+    color: green;
+}
